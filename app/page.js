@@ -76,7 +76,7 @@
                             Khushi Upadhyay
                         </h1>
                         <p>
-                            I'm a Computer Engineer. I work as Software QA Engineer based in Texas. I specialize in software development, creating projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
+                            I'm a Computer Engineer. I work as Software QA Engineer. I specialize in software development, creating projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
                             <span>I'm interested in AI topics which is why I also add things like ChatGPT into my project these days. </span>
                         </p>
                         <div className="call-to-action">
@@ -182,23 +182,22 @@
                             <li>Express</li>
                             <li>Payton</li>
                             <li>Java</li>
-                            <li>PHP</li>
-                            <li>Ruby</li>
+                            <li>SQL</li>
+                            <li>TypeScript</li>
                         </ul>
 
                     </div>
                     <div className="right-column">
                         <h3>A bit about me</h3>
-                        <p>Hi I'm Khushi Upadhyay, I'm a Computer Engineering graduate and Software QA Engineer 
-                            in Texas. I specialize in software development, 
-                            creating projects that showcase my skills in HTML, CSS, JavaScript, and Azure. 
-                            I'm interested in AI topics which is why I also add things like 
-                            ChatGPT into my project these days!
+                        <p>Hi I'm Khushi Upadhyay, I'm a Computer Engineering graduate and Software QA Engineer
+                            with a strong background in software development, testing, and real-time systems. I like 
+                            creating projects that showcase my skills, enabling me to steamline processes and enhance user experiences across projects.
                         </p>
                         <p>
-                            I'm currenlty working on a project that uses Azure AI to create a chatbot 
-                            that can help answer questions about web development. I am also working on a project that
-                            uses React and Next.js to create a Portfolio website.
+                        Recently, I built this portfolio website application to showcase my work, 
+                        integrating AI features on Microsoft Azure for interactive user engagement using React and Next.js. 
+                        I am passionate about using my problem-solving skills to create impactful software solutions 
+                        and am eager to further my journey in software development.
                         </p>
                     </div>
                 </div>
@@ -308,7 +307,7 @@
                 <div className="chatbot-blue">
                     <div className="chatbot-info">
                         <h3>Azure AI Chatbot</h3>
-                        <p>I've put together a chatbot here which knows all my skills, work experience and has a copy of my CU/Reume.
+                        <p>I've put together a chatbot here which knows all my skills, work experience and has a copy of my CV/Resume.
                             you can use it to ask questions about me to get a better idea of who I am and what I've done.</p>
                         <p>You can also download my resume here if you want to take a look at it. I'm currently looking for new opportunites so if you have a project you think I'd be a good fit for, please get in touch!</p>
                         <a href="./Khushi_Upadhyay_Resume.pdf" className="button black">Download Resume</a>

@@ -21,7 +21,7 @@ export async function POST(req){
 Resume:
 ${DATA_RESUME}
 
-Help users learn more about Adrian from his resume.`
+Help users learn more about Khushi from her resume.`
 	})
 
 	const response = await client.chat.completions.create({ messages, model: deployment, max_tokens: 128 });

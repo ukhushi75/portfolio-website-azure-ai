@@ -76,7 +76,7 @@
                             Khushi Upadhyay
                         </h1>
                         <p>
-                            A Computer Engineering graduate working as a Software QA Engineer specializing in software development. I create projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
+                            A Computer Engineering graduate working as a Software Engineer specializing in software development. I create projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
                             <span> I'm interested in AI topics which is why I also add things like ChatGPT into my project these days. </span>
                         </p>
                         <div className="call-to-action">
@@ -180,7 +180,7 @@
                         <ul>
                             <li>Node.js</li>
                             <li>Express</li>
-                            <li>Payton</li>
+                            <li>Python</li>
                             <li>Java</li>
                             <li>SQL</li>
                             <li>TypeScript</li>

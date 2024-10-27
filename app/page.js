@@ -76,8 +76,8 @@
                             Khushi Upadhyay
                         </h1>
                         <p>
-                            I'm a Computer Engineer. I work as Software QA Engineer. I specialize in software development, creating projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
-                            <span>I'm interested in AI topics which is why I also add things like ChatGPT into my project these days. </span>
+                            I'm a Computer Engineering graduate working as a Software QA Engineer specializing in software development. creating projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
+                            <span> I'm interested in AI topics which is why I also add things like ChatGPT into my project these days. </span>
                         </p>
                         <div className="call-to-action">
                             <a href="./Khushi_Upadhyay_Resume.pdf" className="button black">
@@ -189,14 +189,14 @@
                     </div>
                     <div className="right-column">
                         <h3>A bit about me</h3>
-                        <p>Hi I'm Khushi Upadhyay, I'm a Computer Engineering graduate and Software QA Engineer
+                        <p>Hi, I'm Khushi Upadhyay, a Computer Engineering graduate
                             with a strong background in software development, testing, and real-time systems. I like 
-                            creating projects that showcase my skills, enabling me to steamline processes and enhance user experiences across projects.
+                            creating projects that showcase my skills, enabling me to steamline processes and enhance user experiences.
                         </p>
                         <p>
                         Recently, I built this portfolio website application to showcase my work, 
                         integrating AI features on Microsoft Azure for interactive user engagement using React and Next.js. 
-                        I am passionate about using my problem-solving skills to create impactful software solutions 
+                        I'm passionate about using my problem-solving skills to create impactful software solutions 
                         and am eager to further my journey in software development.
                         </p>
                     </div>

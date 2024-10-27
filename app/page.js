@@ -197,7 +197,7 @@
                         </p>
                         <p>
                             I'm currenlty working on a project that uses Azure AI to create a chatbot 
-                            that can help answer questions about web developemnt. I am also working on a project that
+                            that can help answer questions about web development. I am also working on a project that
                             uses React and Next.js to create a Portfolio website.
                         </p>
                     </div>

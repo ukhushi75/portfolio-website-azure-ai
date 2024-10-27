@@ -19,7 +19,7 @@
             let newMessages = [...messages, { role: 'user', content: messageInput }];
             setMessages(newMessages);
             setMessageInput('');
-            const response = await fetch('/api', {
+            const apiMessage = await fetch('/api', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -27,6 +27,7 @@
                 body: JSON.stringify({ messages: newMessages })
             }
         ).then(res => res.json())
+    
         setMessages([...newMessages, { role: 'assistant', content: apiMessage.message }]);
         }
 

@@ -76,7 +76,7 @@
                             Khushi Upadhyay
                         </h1>
                         <p>
-                            I'm a Computer Engineering graduate working as a Software QA Engineer specializing in software development. creating projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
+                            A Computer Engineering graduate working as a Software QA Engineer specializing in software development. I create projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
                             <span> I'm interested in AI topics which is why I also add things like ChatGPT into my project these days. </span>
                         </p>
                         <div className="call-to-action">
@@ -190,8 +190,8 @@
                     <div className="right-column">
                         <h3>A bit about me</h3>
                         <p>Hi, I'm Khushi Upadhyay, a Computer Engineering graduate
-                            with a strong background in software development, testing, and real-time systems. I like 
-                            creating projects that showcase my skills, enabling me to steamline processes and enhance user experiences.
+                            with a strong background in software development, testing, and real-time systems. I enjoy 
+                            building projects that enhance user experience and streamline processes.
                         </p>
                         <p>
                         Recently, I built this portfolio website application to showcase my work, 
@@ -307,7 +307,7 @@
                 <div className="chatbot-blue">
                     <div className="chatbot-info">
                         <h3>Azure AI Chatbot</h3>
-                        <p>I've put together a chatbot here which knows all my skills, work experience and has a copy of my CV/Resume.
+                        <p>I've put together a chatbot here which knows all my skills, work experience and has a copy of my Resume.
                             you can use it to ask questions about me to get a better idea of who I am and what I've done.</p>
                         <p>You can also download my resume here if you want to take a look at it. I'm currently looking for new opportunites so if you have a project you think I'd be a good fit for, please get in touch!</p>
                         <a href="./Khushi_Upadhyay_Resume.pdf" className="button black">Download Resume</a>

@@ -276,7 +276,7 @@
                         width="100%"/>
                     </a>
                     <a href="#" className="bento-item">
-                        <img src="./imgs/Project - 3.gif" 
+                        <img src="./imgs/Project - 3.png" 
                         alt="ACTC Roadside - Quarterhill" 
                         width="100%"/>
                     </a>

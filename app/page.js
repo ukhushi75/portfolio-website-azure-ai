@@ -270,27 +270,27 @@
                         alt="YorkU Excel Lassonde Club" 
                         width="100%"/>
                     </a>
-                    <a href="#" className="bento-item">
+                    <a href="https://www.linkedin.com/posts/khushi-upadhyay_capstoneproject-aiaadesignbuildfly-teamwork-activity-7198146573220888577-1gJw?utm_source=share&utm_medium=member_desktop" className="bento-item">
                         <img src="./imgs/Project-2.png" 
                         alt="AIAA RC Plane" 
                         width="100%"/>
                     </a>
-                    <a href="#" className="bento-item">
+                    <a href="https://github.com/ukhushi75/The-Smart-Gate" className="bento-item">
                         <img src="./imgs/Project - 3.png" 
-                        alt="ACTC Roadside - Quarterhill" 
+                        alt="The Smart Gate" 
                         width="100%"/>
                     </a>
-                    <a href="#" className="bento-item">
+                    <a href="https://github.com/ukhushi75/Foosball-Game" className="bento-item">
                         <img src="./imgs/Project - 4.png" 
                         alt="Foosball Game" 
                         width="100%"/>
                     </a>
-                    <a href="#" className="bento-item">
+                    <a href="https://github.com/ukhushi75/portfolio-website-azure-ai" className="bento-item">
                         <img src="./imgs/Project - 5.png" 
                         alt="Portfolio website" 
                         width="100%"/>
                     </a>
-                    <a href="#" className="bento-item">
+                    <a href="https://github.com/ukhushi75/Simple-Crypto-Widget" className="bento-item">
                         <img src="./imgs/project - 6.png" 
                         alt="Preprocessing and Topic Modeling Simple Crypto Widget" 
                         width="100%"/>

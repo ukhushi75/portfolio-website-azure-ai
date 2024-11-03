@@ -80,7 +80,7 @@
                             <span> I'm interested in AI topics which is why I also add things like ChatGPT into my project these days. </span>
                         </p>
                         <div className="call-to-action">
-                            <a href="./Khushi_Upadhyay_Resume.pdf" className="button black">
+                            <a href="./KhushiUpadhyayResume.pdf" className="button black">
                                 View Resume
                             </a>
                             <a href="mailto:ukhushi75@gmail.com" className="button white">
@@ -310,7 +310,7 @@
                         <p>I've put together a chatbot here which knows all my skills, work experience and has a copy of my Resume.
                             you can use it to ask questions about me to get a better idea of who I am and what I've done.</p>
                         <p>You can also download my resume here if you want to take a look at it. I'm currently looking for new opportunites so if you have a project you think I'd be a good fit for, please get in touch!</p>
-                        <a href="./Khushi_Upadhyay_Resume.pdf" className="button black">Download Resume</a>
+                        <a href="./KhushiUpadhyayResume.pdf" className="button black">Download Resume</a>
                         <div className="chat-box">
                             <div className="scroll-area">
                                         <ul id="chat-log">

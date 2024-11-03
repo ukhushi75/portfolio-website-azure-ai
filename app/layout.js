@@ -2,7 +2,7 @@
   import Head from 'next/head'
 
   export const metadata = {
-    title: "Website Portfolio",
+    title: "Khushi's Portfolio",
     description: "Portfolio Web Design",
   };
 

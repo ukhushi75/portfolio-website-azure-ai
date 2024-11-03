@@ -24,7 +24,7 @@ ${DATA_RESUME}
 Help users learn more about Khushi from her resume.`
 	})
 
-	const response = await client.chat.completions.create({ messages, model: deployment, max_tokens: 128 });
+	const response = await client.chat.completions.create({ messages, model: deployment, max_tokens: 190 });
 	
 
 	return NextResponse.json({ 
@@ -53,6 +53,31 @@ Contributing to designing an aircraft that completes Mission 3 of the competitio
 Sep 23 - Dec 23 Created a warehouse management system prototype with client side and server-side UI with URL parameters.  Designed a UI software prototype of a warehouse management system with 6 use cases including login server, client server, placing an order, restocking, and many more.\
 Applied more than more than 4 software design patterns. Traffic Light Signal     Sep 22 – Dec 22 Created traffic light signal prototype with the help of DE10-Lite and linked the board to the Verilog IoT Cloud and managed complex research equipment with two motors.  \
 Used sequential and combinational logic in Verilog to make streetlight change red/green with the help of four ultrasonic sensors.  AWARDS / CERTIFICATIONS • UNHACK 2023 mentor certificate of appreciation • Voluntary contribution award at the 2018-2019 Lassonde Awards Ceremony • \
-Associate Java Certification 1Z0-808 • 1Z0-819 - Java SE 11 Developer (In progress)'
+Associate Java Certification 1Z0-808 • 1Z0-819 - Java SE 11 Developer (In progress)\
+ EXPERIENCE Sep 19  - Apr 24 \
+Software QA Engineer at Quarterhill           \
+Jul 24 - present \
+• Developing automated testing scripts using Cucumber and Selenium, reducing manual testing time by 40% and accelerating \
+deployment cycles. \
+• Contribute to projects such as launching over 10 express lanes for ACTC, leading to a 5% revenue increase through enhanced toll \
+collection. \
+• Verify data using SQL and collaborate on the Tire Anomaly Classification System (TACS), improving safety notifications and \
+compliance. \
+• Participate in Agile and Scrum methodologies for effective project delivery. \
+PROJECTS \
+Responsive Portfolio Website                     \
+Oct 2024 \
+• Developed a fully responsive portfolio website from scratch using HTML, CSS, and JavaScript, featuring a single page design with \
+animations for enhanced user experience.  \
+• Migrated the project to a React application using Next.js, enabling easy cloud deployment and additional transition effects. \
+• Integrated AI technology on Microsoft Azure, including chatbot utilizing the GPT 3.5 API, to enhance interactivity and user \
+management.   \
+• Demonstrated a comprehensive understanding of web development fundamentals, responsive design principles, and modern \
+deployment practices.   \
+AWARDS / CERTIFICATIONS \
+• Microsoft AZ-900 Certification (in progres) \
+• Associate Java Certification 1Z0-808 \
+• York University Faculty Associate Graduate Award in the 2023-24 school year\
+'
 
 

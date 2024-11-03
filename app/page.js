@@ -2,6 +2,8 @@
     import { useState } from "react";
     import Image from "next/image";
 
+
+    
     export default function Home() {
 
         const [menuOpen, setMenuOpen] = useState(false);
@@ -40,6 +42,7 @@
 
         return (
         <>
+       
             <header>
             <a href="#" className="logo-holder">
                 <div className="logo">K</div>

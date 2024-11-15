@@ -41,11 +41,9 @@
         }
 
         return (
-            
         <>
        
             <header>
-            
             <a href="#" className="logo-holder">
                 <div className="logo">K</div>
                 <div className="logo-text">Portfolio Website</div>

@@ -41,9 +41,19 @@
         }
 
         return (
+            
         <>
        
             <header>
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-TK5F3P4MFR"></script>
+            <script>
+                 window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments)}
+                 gtag('js', new Date());
+
+                gtag('config', 'G-TK5F3P4MFR');
+            </script>
+
             <a href="#" className="logo-holder">
                 <div className="logo">K</div>
                 <div className="logo-text">Portfolio Website</div>

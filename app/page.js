@@ -225,7 +225,7 @@
                         </figure>
                         <h3>Quarterhill</h3>
                         <div>Jul 2024 - present</div>
-                        <p>A leading provider of tolling and enforceent solutions in the Intelligent Transportation System(ITS) industry.</p>
+                        <p>A leading provider of tolling and enforcement solutions in the Intelligent Transportation System(ITS) industry.</p>
                     </article>
                     <article>
                         <figure>

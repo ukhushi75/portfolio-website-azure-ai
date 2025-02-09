@@ -78,6 +78,19 @@ AWARDS / CERTIFICATIONS \
 • Microsoft AZ-900 Certification (in progres) \
 • Associate Java Certification 1Z0-808 \
 • York University Faculty Associate Graduate Award in the 2023-24 school year\
+current experience \
+EXPERIENCE \
+Software QA Engineer at Quarterhill  \
+Jul 24 - present \
+• Collaborate on both Roadside and Backoffice operations in the tolling industry, enhancing customer experience and \
+optimizing software performance. \
+• Present ideas and testing results to clients twice a week, ensuring alignment on project progress and feedback. \
+• Conduct rigorous testing using PL/SQL, PostgreSQL, and Postman on the ongoing 405expresslanes software, contributing to \
+improved user experience. \
+• Develop and automate testing scripts with Cucumber and Selenium using Eclipse, reducing manual testing time and increasing \
+efficiency\
+• Work closely with the development team to provide quality assurance insights and contribute to the continuous improvement \
+of development practices\
 '
 
 

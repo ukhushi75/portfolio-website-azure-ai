@@ -215,9 +215,11 @@
                     <article>
                         <figure>
                             <div>
+                            <a href="https://www.quarterhill.com/">
                                 <img src="./imgs/work-experience-1.png" 
                                 alt="Workplace 1 - Software QA Engineer" 
                                 width="100%"/>
+                            </a>
                                 <figcaption>
                                     Software QA Engineer
                                 </figcaption>
@@ -230,9 +232,11 @@
                     <article>
                         <figure>
                             <div>
+                            <a href="https://g.co/kgs/ptx8K3n">
                                 <img src="./imgs/work experince - 2.png" 
                                 alt="Workplace 2 - Frontend Developer" 
                                 width="100%"/>
+                            </a>
                                 <figcaption>
                                     Frontend Developer
                                 </figcaption>
@@ -246,9 +250,11 @@
                     <article>
                         <figure>
                             <div>
+                            <a href="https://gaotek.com/">
                                 <img src="./imgs/work experience -3.png" 
                                 alt="Workplace 3 - Tech Specialist" 
                                 width="100%"/>
+                            </a>
                                 <figcaption>
                                     Tech Specialist
                                 </figcaption>

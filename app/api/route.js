@@ -3,9 +3,9 @@ const { AzureOpenAI } = require("openai");
 //const dotenv = require("dotenv");
 //dotenv.config();
 
-const endpoint = "https://ukhus-m2qxirhn-northcentralus.openai.azure.com/";
-const apiKey = "82979d7545864a349c5068950b419c13";
-const deployment = "gpt-35-turbo";
+const endpoint = "https://porfoliowebsitegpt.openai.azure.com/";
+const apiKey = "D7hWVNwitv2GNtcnXazy88ynLjtHs1KqY3uGRa6fYHLIpukCzfVKJQQJ99BBACHrzpqXJ3w3AAABACOGwibH";
+const deployment = "gpt-4o";
 const apiVersion = "2024-05-01-preview";
 
 

@@ -79,8 +79,8 @@
                             Khushi Upadhyay
                         </h1>
                         <p>
-                            A Computer Engineering graduate working as a Software Engineer specializing in software development. I create projects that showcase my skills in HTML, CSS, JavaScript, and Azure.                         
-                            <span> I'm interested in AI topics which is why I also add things like ChatGPT into my project these days. </span>
+                            I build and optimize intelligent full-stack applications. With a strong foundation in backend development using Java and Python, and expertise in cloud platforms like AWS and Azure, I create scalable, efficient solutions. 
+                            <span> I'm passionate about integrating AI and machine learning to solve complex problems and enhance user experiences. </span>
                         </p>
                         <div className="call-to-action">
                             <a href="./KhushiUpadhyayResume.pdf" className="button black">
@@ -191,16 +191,18 @@
 
                     </div>
                     <div className="right-column">
+
                         <h3>A bit about me</h3>
-                        <p>Hi, I'm Khushi Upadhyay, a Computer Engineering graduate
-                            with a strong background in software development, testing, and real-time systems. I enjoy 
-                            building projects that enhance user experience and streamline processes.
+                        <p style={{ lineHeight: '1.4', marginBottom: '1.5rem' }}>
+                            I'm a Software Engineer passionate about building intelligent, scalable systems. 
+                            My expertise is in backend development with Java and Python, where I've designed microservices APIs, 
+                            automated CI/CD to cut release times by 70%, and built data tools with integrated ML models.
                         </p>
-                        <p>
-                        Recently, I built this portfolio website application to showcase my work, 
-                        integrating AI features on Microsoft Azure for interactive user engagement using React and Next.js. 
-                        I'm passionate about using my problem-solving skills to create impactful software solutions 
-                        and am eager to further my journey in software development.
+                        <p style={{ lineHeight: '1.4', marginBottom: '0.5rem' }}>
+                        Driven by innovation, I explore AI's practical applications. 
+                        This portfolio, built with React and Next.js and enhanced by an Azure OpenAI chatbot, 
+                        reflects that passion. I'm eager to join a forward-thinking team to contribute my skills in software engineering, cloud, 
+                        and AI toward building impactful, next-generation products.
                         </p>
                     </div>
                 </div>
@@ -221,13 +223,15 @@
                                 width="100%"/>
                             </a>
                                 <figcaption>
-                                    Software QA Engineer
+                                    Software Engineer
                                 </figcaption>
                             </div>
                         </figure>
                         <h3>Quarterhill</h3>
-                        <div>Jul 2024 - present</div>
-                        <p>A leading provider of tolling and enforcement solutions in the Intelligent Transportation System(ITS) industry.</p>
+                        <div>Jul 2024 - Aug 2025</div>
+                        <p>A leading provider of tolling and enforcement solutions in the Intelligent Transportation System(ITS) industry.
+                            More info. in resume.
+                        </p>
                     </article>
                     <article>
                         <figure>
@@ -243,9 +247,11 @@
                             </div>
                         </figure>
                         <h3>YuRideshare</h3>
-                        <div>Sep 22 - Dec 22
+                        <div>Sep 2022 - Dec 2022
                         </div>
-                        <p>A startup collaborating with York University to offer a tailored, sustainable, and safe rideshare system.</p>
+                        <p>A startup collaborating with York University to offer a tailored, sustainable, and safe rideshare system.
+                            More info. in resume.
+                        </p>
                     </article>                
                     <article>
                         <figure>
@@ -256,13 +262,15 @@
                                 width="100%"/>
                             </a>
                                 <figcaption>
-                                    Tech Specialist
+                                    Web Developer
                                 </figcaption>
                             </div>
                         </figure>
-                        <h3>GAO Tek</h3>
-                        <div>May 22 - Aug 22</div>
-                        <p>GAO Tek Inc., a member of GAO Group, is a global leader in providing test equipment, meters, fiber optic testers, drones, and more.</p>
+                        <h3>Excel Lassonde</h3>
+                        <div>Aug 2021 - Sep 2022</div>
+                        <p>The dedicated academic support club within the Lassonde School of Engineering, 
+                            delivering expert-led tutoring and workshops to elevate student achievement in core STEM disciplines.
+                        </p>
                     </article>
                 </div>
             </section>
@@ -294,12 +302,13 @@
                         alt="Foosball Game" 
                         width="100%"/>
                     </a>
-                    <a href="https://github.com/ukhushi75/portfolio-website-azure-ai" className="bento-item">
+                    <a href="https://github.com/ukhushi75/TaskManagerApplication" className="bento-item">
                         <img src="./imgs/Project - 5.png" 
-                        alt="Portfolio website" 
-                        width="100%"/>
+                        alt="Task Manager" 
+                        width="100%"
+                        />
                     </a>
-                    <a href="https://github.com/ukhushi75/Simple-Crypto-Widget" className="bento-item">
+                    <a href="https://github.com/ukhushi75/MachineLearningWithWifi" className="bento-item">
                         <img src="./imgs/project - 6.png" 
                         alt="Preprocessing and Topic Modeling Simple Crypto Widget" 
                         width="100%"/>
